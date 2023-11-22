@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center"/>Fachinformatiker <sup><em>alpha</em></sup></h1>
+<h1 align="center"/>Fachinformatiker <sup><em>Community</em></sup></h1>
 
 <p align="center">
 Ein Platz für Fachinformatiker.
